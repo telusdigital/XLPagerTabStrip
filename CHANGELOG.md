@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to XLPagerTabStrip will be documented in this file.
 
+### [8.0.1]
+
+* Bug fixes related to loading inital tab's view controllers.
+
 ### [8.0.0](https://github.com/xmartlabs/XLPagerTabStrip/releases/tag/8.0.0)
 
 * Xcode 9 support. (Swift 4)
